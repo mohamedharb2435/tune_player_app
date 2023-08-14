@@ -5,8 +5,9 @@ A new Flutter project.
 - Dart
 - Flutter
 - # package used
-- audioplayers
-  A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, Linux, macOS, Windows, and web.
+- audio players
+-
+- A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, Linux, macOS, Windows, and web.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
