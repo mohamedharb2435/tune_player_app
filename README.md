@@ -1,9 +1,9 @@
 # tune_player_app_setup
 
 A new Flutter project.
-# language used
-dart
-flutter
+# languages used
+- Dart
+- Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
